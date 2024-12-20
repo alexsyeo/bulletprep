@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 26 2024
+December 20 2024
 
 # Privacy Policy
 
@@ -83,7 +83,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy, please contact us at **alexsyeo@gmail.com**.
 
 <br>
-Thank you for using Scripture Connect!
+Thank you for choosing BulletPrep!
 <br>
 <br>
 <br>

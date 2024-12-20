@@ -1,10 +1,64 @@
+@font-face {
+    font-family: "Moderustic";
+    src: url("/assets/fonts/Moderustic/Moderustic-Light.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Moderustic";
+    src: url("/assets/fonts/Moderustic/Moderustic-Regular.otf")
+        format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Moderustic";
+    src: url("/assets/fonts/Moderustic/Moderustic-Medium.otf")
+        format("opentype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Moderustic";
+    src: url("/assets/fonts/Moderustic/Moderustic-SemiBold.otf")
+        format("opentype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Moderustic";
+    src: url("/assets/fonts/Moderustic/Moderustic-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Moderustic";
+    src: url("/assets/fonts/Moderustic/Moderustic-ExtraBold.otf")
+        format("opentype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
 // Layout and grids
 $content-width: 1170px;
 
 // Fonts and sizes
-// $font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$font: "Arial", "Helvetica Neue", sans-serif;
-$font-title: "Arial", "Helvetica Neue", sans-serif;
+$font: "Moderustic", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+$font-title: "Moderustic", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Arial, sans-serif;
 $font-weight: 500;
 $primary-text-color: #000000;
 
@@ -13,31 +67,39 @@ html {
     font-family: $font;
     font-weight: $font-weight;
     line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 body {
+    font-family: $font;
     font-size: 2rem;
     background-color: $body-color;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
-
-// .headerName {
-//     font-family: $font-title;
-//     font-size: 3rem;
-// }
 
 .subPageBody {
     background-color: #fff;
 }
 
-// .appName {
-//     font-family: $font-title;
-//     font-size: 5rem;
-// }
+.appName {
+    font-family: $font-title;
+    font-weight: 700;
+    font-size: 5rem;
+}
 
-// .featureTitle {
-//     font-family: $font-title;
-//     font-size: 2rem;
-// }
+.headerName {
+    font-family: $font-title;
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.featureTitle {
+    font-family: $font-title;
+    font-weight: 500;
+    font-size: 2rem;
+}
 
 h1 {
     font-size: 4rem;
@@ -49,13 +111,6 @@ h2 {
 
 h3 {
     font-size: 2rem;
-}
-
-// Better font rendering
-body {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    background-color: $body-color;
 }
 
 a:link,
