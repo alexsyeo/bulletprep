@@ -34,11 +34,11 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
     - title: Logical Reasoning
-      description: Practice with hundreds of LSAT-style logical reasoning questions created and curated by the team.
+      description: Practice with hundreds of original LSAT-style logical reasoning questions created and curated by the team. No LawHub Advantage membership required.
       fontawesome_icon_name: book-open
 
     - title: AI Study Buddy
-      description: Get instant, personalized study advice, explanations, and feedback on your LSAT prep.
+      description: Get instant, personalized study advice, explanations, and feedback on your LSAT prep leveraging the latest AI models.
       fontawesome_icon_name: brain
 
     - title: Direct Communication Line with the Team
