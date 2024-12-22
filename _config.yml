@@ -26,7 +26,7 @@ email_address: alexsyeo@gmail.com
 # facebook_username:
 # instagram_username: alexsyeo
 linkedin_username: alexsyeo
-# discord_link: https://discord.gg/DPbH6qexbe
+discord_link: https://discord.gg/FFv2htKNQz
 # twitter_username: ebaehr
 # github_username: alexsyeo
 youtube_username:
@@ -41,8 +41,8 @@ features:
       description: Read the King James Version of the Bible.
       fontawesome_icon_name: bible
 
-    - title: Direct Communication Line with Developer
-      description: Direct communication line with the developer via email to request support, provide feedback, and more.
+    - title: Direct Communication Line with the Team
+      description: Direct communication line with the team via email and Discord to request support, provide feedback, and more.
       fontawesome_icon_name: envelope
 
 # Theme Settings
