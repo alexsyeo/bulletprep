@@ -33,13 +33,13 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-    - title: Free Bible Chat
-      description: Have unlimited, free chats about the Bible. Ask questions, get insights, and discover verses.
-      fontawesome_icon_name: comments
+    - title: Logical Reasoning
+      description: Practice with hundreds of LSAT-style logical reasoning questions created and curated by the team.
+      fontawesome_icon_name: book-open
 
-    - title: KJV Bible
-      description: Read the King James Version of the Bible.
-      fontawesome_icon_name: bible
+    - title: AI Study Buddy
+      description: Get instant, personalized study advice, explanations, and feedback on your LSAT prep.
+      fontawesome_icon_name: brain
 
     - title: Direct Communication Line with the Team
       description: Direct communication line with the team via email and Discord to request support, provide feedback, and more.
