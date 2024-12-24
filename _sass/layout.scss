@@ -634,6 +634,19 @@ footer {
     justify-content: center;
 }
 
+.disclaimer {
+    color: $footer-text-color;
+    display: block;
+    line-height: 1.5;
+    width: 100%;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    font-size: 1.2rem;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 .footerLinks {
     display: flex;
     text-align: center;

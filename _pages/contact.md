@@ -6,7 +6,7 @@ include_in_header: true
 
 # Contact
 
-For all questions and support requests, the easiest way to reach me is **via email**:
+For all questions and support requests, the easiest way to reach the team is via **discord** or **email**:
 
 **alexsyeo@gmail.com**
 

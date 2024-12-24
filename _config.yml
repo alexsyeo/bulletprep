@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: BulletPrep # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: LSAT Prep on the go.
+app_description: LSAT<sup>®</sup> prep on the go.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,11 +34,11 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
     - title: Logical Reasoning
-      description: Practice with hundreds of original LSAT-style logical reasoning questions created and curated by the team. No LawHub Advantage membership required.
+      description: Practice with hundreds of original LSAT<sup>®</sup>-style logical reasoning questions created and curated by the team. No LawHub<sup>TM</sup> Advantage membership required.
       fontawesome_icon_name: book-open
 
     - title: AI Study Buddy
-      description: Get instant, personalized study advice, explanations, and feedback on your LSAT prep leveraging the latest AI models.
+      description: Get instant, personalized study advice, explanations, and feedback on your LSAT<sup>®</sup> prep leveraging the latest AI models.
       fontawesome_icon_name: brain
 
     - title: Direct Communication Line with the Team
