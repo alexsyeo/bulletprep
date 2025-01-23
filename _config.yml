@@ -33,16 +33,24 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
+    - title: Affordable, Accessible, and Convenient
+      description: BulletPrep offers a 3 day free trial, followed by a monthly subscription of $9.99 USD. No LawHub<sup>TM</sup> Advantage membership required. Done with your prep? Cancel anytime!
+      fontawesome_icon_name: dollar-sign
+
     - title: Hundreds of Practice Questions and Explanations
-      description: Practice with hundreds of original LSAT<sup>®</sup>-style Logical Reasoning and Reading Comprehension questions created and curated by the team, with more constantly being added. No LawHub<sup>TM</sup> Advantage membership required.
+      description: Practice with hundreds of original LSAT<sup>®</sup>-style Logical Reasoning and Reading Comprehension questions created and curated by the team, with more constantly being added.
       fontawesome_icon_name: book-open
 
+    - title: Mobile First
+      description: BulletPrep is designed for mobile devices, with a focus on accessibility, convenience, and ease of use. BulletPrep is not meant to be a replacement for other prep resources, but rather a convenient, on-the-go supplement to your prep.
+      fontawesome_icon_name: mobile-alt
+
     - title: AI Study Buddy
-      description: Get instant, personalized study advice, explanations, and feedback on your LSAT<sup>®</sup> prep leveraging the latest AI models.
+      description: Get instant, personalized study advice, explanations, and feedback on your prep, leveraging the latest AI models. If you don't understand an explanation, just ask!
       fontawesome_icon_name: brain
 
-    - title: Direct Communication Line with the Team
-      description: Direct communication line with the team via email and Discord to request support, provide feedback, and more.
+    - title: Contact us anytime
+      description: You get a direct communication line with the team via email and Discord to request support, provide feedback, and more. Our team will make sure to respond in a timely manner.
       fontawesome_icon_name: envelope
 
 # Theme Settings
