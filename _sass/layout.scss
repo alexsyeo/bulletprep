@@ -342,8 +342,19 @@ nav > ul li a:active {
 }
 
 .appDescription {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 1.5;
     color: $app-description-color;
-    font-family: $font-title;
+}
+
+.appDescriptionExtended {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $app-description-color;
 }
 
 @media only screen and (max-width: 992px) {
