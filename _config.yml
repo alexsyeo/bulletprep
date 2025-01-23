@@ -15,7 +15,7 @@ app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID
 app_name: BulletPrep # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: LSAT<sup>®</sup> prep on the go.
-app_description_extended: BulletPrep offers a 3 day free trial, followed by a monthly subscription of $9.99 USD. No LawHub<sup>TM</sup> Advantage membership required. Done with your prep? Cancel anytime!
+app_description_extended: 3 day free trial, followed by a monthly subscription of $9.99 USD. No LawHub<sup>TM</sup> Advantage membership required. Done with your prep? Cancel anytime!
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 

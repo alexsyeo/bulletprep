@@ -270,7 +270,7 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 992px) {
     .appInfo {
-        padding-top: 50px;
+        padding-top: 10px;
         justify-content: center;
     }
 }
@@ -321,8 +321,9 @@ nav > ul li a:active {
     }
 
     .appName {
-        margin-top: 30px;
+        margin-top: 20px;
         text-align: center;
+        font-size: 4rem;
     }
 
     .appPrice {
@@ -361,11 +362,17 @@ nav > ul li a:active {
     .appDescription {
         text-align: center;
     }
+
+    .appDescriptionExtended {
+        text-align: center;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
 }
 
 .downloadButtonsContainer {
     display: inline-block;
-    margin-top: 42px;
+    margin-top: 22px;
     filter: $drop-shadow;
 }
 
