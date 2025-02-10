@@ -38,6 +38,10 @@ features:
       description: Practice with hundreds of original LSAT<sup>®</sup>-style Logical Reasoning and Reading Comprehension questions created and curated by the team, with more constantly being added.
       fontawesome_icon_name: book-open
 
+    - title: Drill Sets
+      description: Go through timed drill sets to test your speed and accuracy in an exam-like environment.
+      fontawesome_icon_name: stopwatch
+
     - title: Mobile First
       description: BulletPrep is designed for mobile devices, with a focus on accessibility, convenience, and ease of use. BulletPrep is not meant to be a replacement for other prep resources, but rather a convenient, on-the-go supplement to your prep.
       fontawesome_icon_name: mobile-alt
